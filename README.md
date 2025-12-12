@@ -9,7 +9,9 @@ Why SVMs work especially well on sparse, high-dimensional data
 Core concepts such as margins, support vectors, and the role of the C parameter
 Practical comparison with neural networks and modern NLP approaches
 Strengths and limitations of SVMs in real-world text processing tasks
+
 A fully reproducible Jupyter Notebook is included, covering:
+
 Data loading and preprocessing
 TF-IDF vectorisation
 Training and evaluating a LinearSVC model
@@ -22,6 +24,7 @@ All figures used in the tutorial (sparsity visualisation, margin illustration, f
 Datasets:
 
 SMS Spam Collection: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 20 Newsgroups: Automatically loaded via scikit-learn
 
 This repository aims to provide a clear and accessible learning resource that demonstrates why SVMs remain a competitive baseline for NLP tasks, even alongside deep-learning models. It is suitable for students, educators, and practitioners looking to understand both the theory and practical implementation of SVM-based text classification.
